@@ -2,7 +2,7 @@
 
 ### MD Masud Sikdar, Fullstack developer from Dhaka, Bangladesh. I like to experiment a lot!
 
-[![GitHub followers](https://img.shields.io/github/followers/rajebraju?logo=github)](https://github.com/rajebraju) [![Twitter Follow](https://img.shields.io/twitter/follow/rajebraju?logo=twitter&style=social)](https://twitter.com/rajebraju) [![Facebook Badge](https://img.shields.io/badge/-rajebchowdhuryraj-1877F2?logo=facebook&logoColor=white&link=https://facebook.com/rajebchowdhuryraj)](https://facebook.com/rajebchowdhuryraj) [![Linkedin Badge](https://img.shields.io/badge/-rajebchowdhury-blue?logo=linkedin&logoColor=white&link=https://linkedin.com/in/rajebchowdhury)](https://linkedin.com/in/rajebchowdhury) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajebraju@gmail.com)](mailto:rajebraju@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/rajebraju?logo=github)](https://github.com/rajebraju) [![Facebook Badge](https://img.shields.io/badge/-rajebchowdhuryraj-1877F2?logo=facebook&logoColor=white&link=https://facebook.com/rajebchowdhuryraj)](https://facebook.com/rajebchowdhuryraj) [![Linkedin Badge](https://img.shields.io/badge/-rajebchowdhury-blue?logo=linkedin&logoColor=white&link=https://linkedin.com/in/rajebchowdhury)](https://linkedin.com/in/rajebchowdhury) [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rajebraju@gmail.com)](mailto:rajebraju@gmail.com)
 
 
 ## 🔭 I’m currently working on
