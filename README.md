@@ -49,8 +49,8 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
 ### Numbers
-![mdmasudsikdar71's Trophy](https://github-profile-trophy.vercel.app/?username=mdmasudsikdar71&column=8&no-frame=true)
+![rajebraju's Trophy](https://github-profile-trophy.vercel.app/?username=rajebraju&column=8&no-frame=true)
 
-![mdmasudsikdar71's Stats](https://github-readme-stats.vercel.app/api?username=mdmasudsikdar71&show_icons=true&count_private=true&include_all_commits=true)
+![rajebraju's Stats](https://github-readme-stats.vercel.app/api?username=rajebraju&show_icons=true&count_private=true&include_all_commits=true)
 
-![mdmasudsikdar71's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdmasudsikdar71)
+![rajebraju's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajebraju)
